@@ -1,0 +1,3 @@
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Assignment1\COMP2068-Assignment1\Assignment1\COMP2068-Assignment1\obj\Debug\COMP2068-Assignment1.njsprojAssemblyReference.cache
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Assignment1\COMP2068-Assignment1\Assignment1\COMP2068-Assignment1\obj\Debug\COMP2068-Assignment1.njsproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Assignment1\COMP2068-Assignment1\Assignment1\COMP2068-Assignment1\bin\Microsoft.NodejsTools.WebRole.dll

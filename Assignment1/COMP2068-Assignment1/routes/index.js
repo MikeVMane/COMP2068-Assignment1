@@ -7,4 +7,20 @@ router.get('/', function (req, res) {
     res.render('index', { title: 'Express' });
 });
 
+router.get('/about', function (req, res) {
+    res.render('about', { title: 'Express' });
+});
+
+router.get('/projects', function (req, res) {
+    res.render('projects', { title: 'Express' });
+});
+
+router.get('/services', function (req, res) {
+    res.render('services', { title: 'Express' });
+});
+
+router.get('/contact', function (req, res) {
+    res.render('contact', { title: 'Express' });
+});
+
 module.exports = router;
