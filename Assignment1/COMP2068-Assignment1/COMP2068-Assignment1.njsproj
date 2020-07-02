@@ -30,6 +30,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="public\Pictures\profile.jpg" />
     <Content Include="public\Pictures\background.jpg" />
     <Content Include="routes\about.js" />
     <Content Include="routes\contact.js" />

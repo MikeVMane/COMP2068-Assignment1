@@ -15,19 +15,19 @@ router.get('/', function (req, res) {
 });
 
 router.get('/about', function (req, res) {
-    res.render('about', { title: 'About Me' });
+    res.render('about', { about: 'About Me' });
 });
 
 router.get('/projects', function (req, res) {
-    res.render('projects', { title: 'My Projects' });
+    res.render('projects', { project: 'My Projects' });
 });
 
 router.get('/services', function (req, res) {
-    res.render('services', { title: 'My Services' });
+    res.render('services', { service: 'My Services' });
 });
 
 router.get('/contact', function (req, res) {
-    res.render('contact', { title: 'Contact Me' });
+    res.render('contact', { contact: 'Contact Me' });
 });
 
 module.exports = router;

@@ -2,7 +2,9 @@
     File Name: main.css
     Author's Name: Michael Valadao-Martins
     WebSite Name: Michael Valadao-Martins Personal Portfolio
-    File Description: THis file is for add design/css to the webpage
+    File Description: This file is for add design/css to the webpage
+    Background Image by 3mikey5000 from Pixabay
+    pixabay.com/illustrations/background-circuit-grey-digital-2426328/
 */
 
 body {
@@ -61,12 +63,19 @@ p.footer {
     text-align:center;
 }
 
+
+
 p {
     border: 3px groove black;
     background-color: darkslategray;
     color: black;
     width: 600px;
     padding: 3px;
+}
+
+p.contact 
+{
+    width: 230px;
 }
 
 img.profile
