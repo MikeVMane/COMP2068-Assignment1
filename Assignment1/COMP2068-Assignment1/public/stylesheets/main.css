@@ -27,7 +27,16 @@ a.anch {
     background-color: darkslategray;
 }
 
-a.anch:hover 
+a.projects {
+    color: black;
+    font-weight: bold;
+    margin-right: 50px;
+    padding: 3px;
+    border: 3px groove black;
+    background-color: lightslategray;
+}
+
+a.anch:hover, a.projects:hover 
 {
     color: white;
 }
@@ -37,6 +46,8 @@ h1 {
     border: 3px groove black;
     background-color: darkslategray;
     color: black;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
 hr
@@ -56,9 +67,11 @@ p {
     background-color: darkslategray;
     color: black;
     width: 600px;
+    padding: 3px;
 }
 
 img.profile
 {
     width: 200px;
+    margin-bottom: 10px;
 }
