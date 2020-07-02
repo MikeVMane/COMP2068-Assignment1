@@ -30,6 +30,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="public\Pictures\background.jpg" />
     <Content Include="routes\about.js" />
     <Content Include="routes\contact.js" />
     <Content Include="routes\services.js" />
@@ -55,6 +56,7 @@
     <Folder Include="public\" />
     <Folder Include="public\images\" />
     <Folder Include="public\javascripts\" />
+    <Folder Include="public\Pictures\" />
     <Folder Include="public\stylesheets\" />
     <Folder Include="routes\" />
     <Folder Include="views\" />

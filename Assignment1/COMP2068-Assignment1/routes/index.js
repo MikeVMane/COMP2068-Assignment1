@@ -1,6 +1,13 @@
+/*
+    File Name: index.js
+    Author's Name: Michael Valadao-Martins
+    WebSite Name: Michael Valadao-Martins Personal Portfolio
+    File Description: This file is the js for getting the pug pages
+ */
 'use strict';
 var express = require('express');
 var router = express.Router();
+
 
 /* GET home page. */
 router.get('/', function (req, res) {

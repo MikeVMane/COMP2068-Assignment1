@@ -1,12 +1,64 @@
+/*
+    File Name: main.css
+    Author's Name: Michael Valadao-Martins
+    WebSite Name: Michael Valadao-Martins Personal Portfolio
+    File Description: THis file is for add design/css to the webpage
+*/
+
 body {
     padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    /* The image used */
+    background-image: url("../Pictures/background.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
-a {
-    color: #00B7FF;
+a.anch {
+    color: black;
+    margin-right: 50px;
+    padding: 3px;
+    border: 3px groove black;
+    background-color: darkslategray;
+}
+
+a.anch:hover 
+{
+    color: white;
 }
 
 h1 {
     text-align: center;
+    border: 3px groove black;
+    background-color: darkslategray;
+    color: black;
+}
+
+hr
+{
+    background-color: black;
+}
+
+p.footer {
+    color: white;
+    width: auto;
+    font-size: 10px;
+    text-align:center;
+}
+
+p {
+    border: 3px groove black;
+    background-color: darkslategray;
+    color: black;
+    width: 600px;
+}
+
+img.profile
+{
+    width: 200px;
 }
